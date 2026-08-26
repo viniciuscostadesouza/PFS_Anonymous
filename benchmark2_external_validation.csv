@@ -1,0 +1,18 @@
+VE_ID,Domain_Application,Original_Scale,R1,R2,R3,R4,PFS_Mean,SD,Subj_Normalized_Score,Absolute_Diff
+VE01,Medical Training,SUS (1-7),5.45,5.20,5.50,5.30,5.36,0.13,5.20,0.16
+VE02,Architectural Walkthrough,IPQ (1-7),5.10,5.30,5.00,5.15,5.14,0.12,5.35,0.21
+VE03,Industrial Assembly,SUS (1-7),5.80,5.90,5.70,5.85,5.81,0.08,6.00,0.19
+VE04,Exergaming / Sports,Likert (1-5),4.90,5.10,4.80,5.00,4.95,0.13,4.75,0.20
+VE05,Phobia Therapy,Custom (0-100),5.60,5.40,5.75,5.50,5.56,0.15,5.80,0.24
+VE06,Flight Simulation,SUS (1-7),4.50,4.70,4.65,4.55,4.60,0.09,4.85,0.25
+VE07,Educational Heritage,IPQ (1-7),5.70,5.55,5.80,5.65,5.68,0.11,5.50,0.18
+VE08,Military Tactical,Custom (1-7),6.10,6.30,6.05,6.20,6.16,0.11,6.40,0.24
+VE09,Social Interaction,SUS (1-7),5.00,5.25,5.15,4.95,5.09,0.14,4.90,0.19
+VE10,Driving Simulator,IPQ (1-7),6.35,6.50,6.40,6.45,6.43,0.06,6.60,0.17
+VE11,Cognitive Rehabilitation,Likert (1-5),5.20,5.00,5.35,5.10,5.16,0.15,4.95,0.21
+VE12,Mine Safety,SUS (1-7),5.90,6.10,5.80,6.00,5.95,0.13,6.20,0.25
+VE13,Virtual Museum,IPQ (1-7),4.80,4.95,4.70,4.85,4.83,0.10,5.10,0.27
+VE14,Teleoperation,SUS (1-7),6.40,6.60,6.55,6.45,6.50,0.09,6.30,0.20
+VE15,Music Performance,Custom (1-5),4.30,4.50,4.25,4.45,4.37,0.12,4.60,0.23
+VE16,Underwater Exploration,IPQ (1-7),5.75,5.60,5.90,5.70,5.74,0.13,5.45,0.29
+VE17,Emergency Evacuation,SUS (1-7),6.05,5.90,6.15,6.00,6.03,0.10,6.15,0.12

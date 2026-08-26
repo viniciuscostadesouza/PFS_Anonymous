@@ -1,0 +1,24 @@
+Factor_ID,Category,Factor_Name,Score_Min,Score_Max,Description
+E1,Engagement,Inclusiveness,2.0,6.5,Degree of physical sensory isolation
+E2,Engagement,Narrative,2.5,6.5,Coherence and depth of scenario storytelling
+E3,Engagement,Attention,2.5,7.0,Demanded level of cognitive focus
+E4,Engagement,Emotion,1.5,6.5,Arousal and valence triggered by VE
+E5,Engagement,Task Complexity,1.5,6.5,Cognitive workload of interactive tasks
+E6,Engagement,Co-presence,2.0,6.5,Perception of other entities or agents
+E7,Engagement,Social Presence,2.0,6.5,Degree of interpersonal interaction
+IF1,Interactive Fidelity,Selection and Manipulation,2.0,6.5,Naturalness of direct manual manipulation
+IF2,Interactive Fidelity,Travel / Locomotion,1.5,7.0,Isomorphism of navigation technique
+SF1,Sensorial Fidelity,Body-Mounted Devices,1.5,7.0,Weight and encumbrance of tracking apparatus
+SF2,Sensorial Fidelity,Proprioception,1.5,6.5,Kinesthetic alignment with virtual space
+SF3,Sensorial Fidelity,Body Ownership (Avatar),2.0,6.5,Completeness of self-avatar representation
+SF4,Sensorial Fidelity,Motion-to-Photon Latency,2.0,7.0,Temporal lag between user motion and display update
+SF5,Sensorial Fidelity,Sensory Transition,3.0,7.0,Gradual vs abrupt transition to virtual space
+SF6,Sensorial Fidelity,Multimodal Synchronization,2.5,6.5,Temporal coherence across audio visual and haptic cues
+SF7,Sensorial Fidelity,Plausibility,2.5,6.5,Adherence to real-world physical and behavioral laws
+SF8,Sensorial Fidelity,Visual Realism,1.5,7.0,Geometric and lighting rendering fidelity
+SF9,Sensorial Fidelity,Field of View (FOV),1.5,6.5,Horizontal and vertical angular extent
+SF10,Sensorial Fidelity,Display Resolution (PPI),1.0,7.0,Pixel density and visual sharpness
+SF11,Sensorial Fidelity,Frame Rate (FPS),2.5,7.0,Update rate and temporal stability
+SF12,Sensorial Fidelity,Acoustic Fidelity,2.0,7.0,Spatialized 3D HRTF audio implementation
+SF13,Sensorial Fidelity,Haptic Feedback,2.0,6.5,Tactile and force-feedback fidelity
+SF14,Sensorial Fidelity,Olfactory Feedback,2.5,6.5,Presence of controlled scent delivery
